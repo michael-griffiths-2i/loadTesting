@@ -56,5 +56,9 @@ Evaluate the system’s stability over an extended period:
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+## Screenshot Using Grifana
+![image](https://github.com/user-attachments/assets/6605af0b-31dc-4854-bb39-18617eab2c88)
+
+
 ## 📄 License
 This project is licensed under the MIT License.
